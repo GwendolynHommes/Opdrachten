@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: rgb(2, 3, 54);
+    margin-left: 80px;
+  }
+
+  h2 {
+      background-color: white;
+      color: rgb(20, 5, 85);
+      font-size: larger;
+      font-weight: bold;
+  }
+
+  h3 {
+    color: rgb(20, 5, 85);
+    font-weight: normal;
+      font-style: italic;
+  }
+
+.klas1 {
+    background-color: white;
+    font-weight: bold;
+}
+
+.myDiv {
+    border: 2px solid rgb(1, 13, 15);
+    border-radius: 1em;
+    text-align: center;
+    margin-left: 100;
+  }
+
+
+
+
+
